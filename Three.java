@@ -1,6 +1,6 @@
 class Three 
 {
-	public static void main(String[] args) 
+	public void main(String[] args) 
 	{
 		System.out.println("veeranji reddy")		
 	}	
